@@ -1,0 +1,36 @@
+:root {
+  --main-cl: #212121;
+}
+.link:hover,
+.link:focus {
+  color: #2196f3;
+  cursor: pointer;
+  text-decoration: none;
+}
+.link:active {
+  color: #2196f3;
+  text-decoration: none;
+}
+.button-assortment:hover,
+.button-assortment:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+  cursor: pointer;
+}
+.link {
+  text-decoration: none;
+  list-style: none;
+}
+.list {
+  list-style: none;
+}
+address {
+  font-style: normal;
+}
+body {
+  font-family: 'Roboto Regular', 'Roboto Bold', 'Roboto Medium', 'Roboto Medium', 'Raleway Boldsans',
+    'Roboto Black', 'sans-serif';
+}
+/* font-size: 18px;
+line-heigt: calc(30 / 18); */
+/* /* line-heigt:1,66666667 (30) */
